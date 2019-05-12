@@ -21,7 +21,7 @@ npm install react-plyr --save
 
 ### CSS
 
-Include the `plyr.css` stylsheet into your `<head>`
+Include the `plyr.css` stylesheet into your `<head>`
 
 ```html
 <link rel="stylesheet" href="path/to/plyr.css">
